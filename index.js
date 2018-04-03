@@ -13,4 +13,10 @@ function BoardMember(name, homeState, training){
   doCharity = function(){
     return  'I like to help people.'
   }
+  releasePressStatement = function(){
+    return 'You will see great things from Scuber.'
+  }
+  sayHi = function(){
+    
+  }
 }
