@@ -10,5 +10,7 @@ function BoardMember(name, homeState, training){
   approve = function(){
     return 'You can do that!'
   }
-  
+  doCharity = function(){
+    return  'I like to help people.'
+  }
 }
