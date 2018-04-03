@@ -17,6 +17,6 @@ function BoardMember(name, homeState, training){
     return 'You will see great things from Scuber.'
   }
   sayHi = function(){
-    
+    return 'Hi, my name is <name>. I am from <homestate>, and I was trained in <training>.'
   }
 }
